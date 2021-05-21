@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheushug0&label=Profile%20views&color=brightgreen&style=flat" alt="Matheus Hugo" /> </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheushug0&show_icons=true&theme=dracula">
+</p>
+
+<p align="center">
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=matheushug0&layout=compact&theme=dracula" />
+</p>
+
 <h3 align="left">Connect w me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-hugo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheushugo" height="30" width="40" /></a>
