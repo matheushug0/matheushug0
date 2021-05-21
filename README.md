@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Matheus  👋🏻‍💻</h1>
 <h3 align="center">Front-end beginner 📝</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheushug0&label=Profile%20views&color=brightgreen&style=flat" alt="Matheus Hugo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheushug0&label=Profile%20views&color=brightgreen&style=flat" alt="Matheus Hugo" /> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheushug0&show_icons=true&theme=dracula">
