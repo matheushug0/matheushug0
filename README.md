@@ -13,8 +13,8 @@
 
 <h3 align="center">Connect w/ me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/matheus-hugo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheushugo" height="30" width="40" style="filter: invert();" /></a>
-<a href="https://www.instagram.com/matheushug0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheushug0" height="30" width="40" style="filter: invert();" /></a>
+<a href="https://www.linkedin.com/in/matheus-hugo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheushugo" height="30" width="40" style="" /></a>
+<a href="https://www.instagram.com/matheushug0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheushug0" height="30" width="40" style="" /></a>
 </p>
 
 <!---
